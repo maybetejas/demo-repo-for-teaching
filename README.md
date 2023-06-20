@@ -1,4 +1,4 @@
-# My Project
+# Demo repo
 
 This is a sample README.md file to demonstrate the usage and structure of a typical README file for a Git repository.
 
