@@ -13,7 +13,7 @@ This is a sample README.md file to demonstrate the usage and structure of a typi
 
 ## Description
 
-This repository contains my awesome project. It does amazing things and solves important problems. It is written in Python and utilizes various libraries and frameworks.
+This repository contains my awesome project. It does amazing things and solves important problems.
 
 ## Installation
 
